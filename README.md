@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ShashwatEv&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 <br/>
