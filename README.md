@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://i.imgflip.com/52b9vy.gif" width="200" alt="Vibing Cat" />
+  ![Vibing Cat](https://i.imgflip.com/52b9vy.gif)
 </div>
 
 <br/>
