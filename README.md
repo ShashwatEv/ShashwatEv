@@ -9,17 +9,17 @@
 <br/>
 
 <div align="center">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </div>
 
 <br/>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://github.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/blob/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ShashwatEv/ShashwatEv/blob/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/ShashwatEv/ShashwatEv/blob/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://github.com/ShashwatEv/ShashwatEv/blob/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
 
