@@ -1,9 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=20C20E&background=00000000&center=true&vCenter=true&width=435&lines=Hello,+I'm+Shashwat!;Code+|+Coffee+|+Create;Welcome+to+my+digital+space..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Rubik+Glitch&pause=1000&color=9A27F7&center=true&vCenter=true&width=435&lines=Hello,+I'm+Shashwat!;Vibing+&+Coding...;Full+Stack+Developer" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ShashwatEv&theme=radical&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://i.imgflip.com/52b9vy.gif" width="200" alt="Vibing Cat" />
 </div>
 
 <br/>
