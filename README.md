@@ -1,4 +1,4 @@
-<h2 align="center">Hello, My name is Shashwat, I am from India, Madhya Pradesh...</h2>
+<h2 align="center">Hello, My name is Shashwat, I am a B.tech Student from India, Madhya Pradesh...</h2>
 
 ###
 
