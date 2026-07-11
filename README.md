@@ -21,16 +21,22 @@
 
 ---
 
-<!-- Real-time GitHub Stats Grid -->
+<!-- Unified Dashboard Badges -->
 <h3 align="center">📊 GitHub Analytics</h3>
-<div align="center">
-
-<!-- Mock Stats Card: Type whatever numbers you want in the URL below! -->
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&custom_title=Shashwat's%20Dev%20Metrics&stars_percentage=false&hide_rank=false&rank=S+&commits=1332&prs=142&issues=68&stars=54)
-
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight)
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/Rank-S%2B-gem?style=for-the-badge&logo=github&logoColor=white&color=7952b3" height="35" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Total%20Commits-1%2C332-success?style=for-the-badge&logo=git&logoColor=white" height="35" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Pull%20Requests-142-blue?style=for-the-badge&logo=githubactions&logoColor=white" height="35" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20Issues-45-orange?style=for-the-badge&logo=lighthouse&logoColor=white" height="35" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Project%20Stars-87-yellow?style=for-the-badge&logo=apachespark&logoColor=white" height="35" />
+  <img width="10" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-15%20Days-firebrick?style=for-the-badge&logo=hotjar&logoColor=white" height="35" />
+</p>
 
 <!-- Custom Streak & Contribution Badges -->
 <p align="center">
