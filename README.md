@@ -42,7 +42,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Contributions-1332-7952b3?style=for-the-badge&logo=github&logoColor=white" height="35" />
   <img width="15" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-15%20Days-firebrick?style=for-the-badge&logo=git&logoColor=white" height="35" />
 </p>
 
 ---
