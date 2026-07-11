@@ -7,7 +7,7 @@
 
 <!-- Profile GIF / Avatar -->
 <div align="center">
-  <img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" style="border-radius: 50%;" />
+  <img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
 </div>
 
 <p align="center">
@@ -29,13 +29,15 @@
 <!-- Real-time GitHub Stats Grid -->
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-  <!-- CHANGE 'YOUR_GITHUB_USERNAME' TO YOUR ACTUAL USERNAME BELOW -->
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
 </p>
 
+<!-- Custom Streak & Contribution Badges (Hides Current Streak) -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" alt="GitHub Streak" />
+  <img src="https://img.shields.io/badge/Total%20Contributions-1332-7952b3?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  <img width="15" />
+  <img src="https://img.shields.io/badge/Longest%20Streak-15%20Days-firebrick?style=for-the-badge&logo=git&logoColor=white" height="35" />
 </p>
 
 ---
