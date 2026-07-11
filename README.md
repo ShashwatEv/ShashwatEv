@@ -1,59 +1,65 @@
-<h2 align="center">Hello, My name is Shashwat, I am a B.tech Student from India, Madhya Pradesh...</h2>
+<!-- Animated Typing Header -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Shashwat!;B.Tech+Student+from+India;Full+Stack+Developer+🚀" alt="Typing SVG" />
+  </a>
+</p>
 
+<!-- Profile GIF / Avatar -->
 <div align="center">
-  <img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
+  <img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" style="border-radius: 50%;" />
 </div>
+
+<p align="center">
+  📍 Madhya Pradesh, India
+</p>
 
 ---
 
-<h3 align="center">🛠️ Tech Stack & Tools</h3>
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=supabase" height="30" alt="supabase logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linkedin" height="30" alt="linkedin logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
-</div>
+<!-- Modern Tech Stack Icons -->
+<h3 align="center">🛠️ Tech Stack & Toolkit</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,react,tailwind,supabase,postgres,docker,vscode,linkedin" alt="My Skills" />
+  </a>
+</p>
 
 ---
 
-<h3 align="center">🌐 Connect with Me</h3>
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-</div>
+<!-- Real-time GitHub Stats Grid -->
+<h3 align="center">📊 GitHub Analytics</h3>
+<p align="center">
+  <!-- CHANGE 'YOUR_GITHUB_USERNAME' TO YOUR ACTUAL USERNAME BELOW -->
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="150" alt="GitHub Streak" />
+</p>
 
 ---
 
+<!-- Clean Socials Section -->
+<h3 align="center">🌐 Let's Connect</h3>
+<p align="center">
+  <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://discord.com" target="_blank"><img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="mailto:your-email@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
+</p>
+
+---
+
+<!-- Elegant QR Code Display -->
 <h3 align="center">📱 Scan to View My Portfolio</h3>
-<div align="center">
-  <img width="200" height="200" alt="Portfolio QR Code" src="https://github.com/user-attachments/assets/a8635d99-5980-4122-84cb-242cc4c31733" />
+<div align="center" style="background: #1a1b26; padding: 20px; border-radius: 10px; display: inline-block;">
+  <img width="180" height="180" alt="Portfolio QR Code" src="https://github.com/user-attachments/assets/a8635d99-5980-4122-84cb-242cc4c31733" style="border-radius: 8px;" />
 </div>
 
-<br />
+<br /><br />
 
+<!-- Visitor Badge Footer -->
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=gold&right_color=black" />
 </div>
