@@ -25,8 +25,9 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&count_private=true)
+
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight)
 
 </div>
 
