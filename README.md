@@ -1,18 +1,13 @@
 <!-- Animated Typing Header -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Shashwat!;B.Tech+Student+from+India;Full+Stack+Developer+🚀" alt="Typing SVG" />
-  </a>
-</p>
+<div align="center">
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Shashwat!;B.Tech+Student+from+India;Full+Stack+Developer+🚀)
 
 <!-- Profile GIF / Avatar -->
-<div align="center">
-  <img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
-</div>
+<img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
 
-<p align="center">
-  📍 Madhya Pradesh, India
-</p>
+📍 Madhya Pradesh, India
+</div>
 
 ---
 
@@ -28,12 +23,14 @@
 
 <!-- Real-time GitHub Stats Grid -->
 <h3 align="center">📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight" height="150" alt="Top Languages" />
-</p>
+<div align="center">
 
-<!-- Custom Streak & Contribution Badges (Hides Current Streak) -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight)
+
+</div>
+
+<!-- Custom Streak & Contribution Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/Total%20Contributions-1332-7952b3?style=for-the-badge&logo=github&logoColor=white" height="35" />
   <img width="15" />
