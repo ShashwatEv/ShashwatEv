@@ -49,7 +49,6 @@
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=gold&right_color=black"  />
 </div>
-![Uploading Portfolio.png…]()
 
 ###
 
