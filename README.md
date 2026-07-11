@@ -25,7 +25,8 @@
 <h3 align="center">📊 GitHub Analytics</h3>
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+<!-- Mock Stats Card: Type whatever numbers you want in the URL below! -->
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&custom_title=Shashwat's%20Dev%20Metrics&stars_percentage=false&hide_rank=false&rank=S+&commits=1332&prs=142&issues=68&stars=54)
 
 ![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight)
 
