@@ -1,70 +1,65 @@
-<!-- Animated Typing Header -->
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Shashwat!;B.Tech+Student+from+India;Full+Stack+Developer+🚀)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F7DF1E&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Shashwat+Singh+Chandel;Full+Stack+%26+Systems+Developer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
 
-<!-- Profile GIF / Avatar -->
-<img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
+<p>📍 Madhya Pradesh, India &nbsp;|&nbsp; 🎓 Computer Science & Engineering</p>
 
-📍 Madhya Pradesh, India
+<p>
+  <a href="https://www.linkedin.com/in/shashwat-singh-ji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shashwatop69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.instagram.com/shashwat.singh.ji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+</p>
+
 </div>
 
 ---
 
-<!-- Modern Tech Stack Icons -->
-<h3 align="center">🛠️ Tech Stack & Toolkit</h3>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,cpp,react,tailwind,supabase,postgres,docker,vscode,linkedin" alt="My Skills" />
-  </a>
+### 🛠️ Tech Stack & Toolkit
+
+**Languages & Systems**
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" alt="Languages" />
+</p>
+
+**Frameworks, Databases & Backend**
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,postgres,mysql,mongodb,supabase,redis" alt="Frameworks and DBs" />
+</p>
+
+**DevOps & Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,vscode" alt="Tools" />
 </p>
 
 ---
 
-<!-- Unified Dashboard Badges -->
-<h3 align="center">📊 GitHub Analytics</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/Rank-S%2B-gem?style=for-the-badge&logo=github&logoColor=white&color=7952b3" height="35" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Total%20Commits-1%2C332-success?style=for-the-badge&logo=git&logoColor=white" height="35" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Pull%20Requests-142-blue?style=for-the-badge&logo=githubactions&logoColor=white" height="35" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20Issues-45-orange?style=for-the-badge&logo=lighthouse&logoColor=white" height="35" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Project%20Stars-87-yellow?style=for-the-badge&logo=apachespark&logoColor=white" height="35" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Longest%20Streak-15%20Days-firebrick?style=for-the-badge&logo=hotjar&logoColor=white" height="35" />
-</p>
+### 🚀 Featured Work & Architecture
 
-<!-- Custom Streak & Contribution Badges -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Total%20Contributions-1332-7952b3?style=for-the-badge&logo=github&logoColor=white" height="35" />
-  <img width="15" />
-</p>
+| Project | Tech Stack | Highlights |
+| :--- | :--- | :--- |
+| **CommuneX** | React, Node.js, SQLite, WebSockets | Modular forum platform with custom real-time interactions and UI cards. |
+| **Mobile App Suite** | React Native, Expo, SQLite | Cross-platform navigation stacks with local offline persistence. |
+| **Legacy API Migration** | Python, REST APIs, JSON Telemetry | Autonomous health auditing, automated digests, and data sync workflows. |
 
 ---
 
-<!-- Clean Socials Section -->
-<h3 align="center">🌐 Let's Connect</h3>
-<p align="center">
-  <a href="https://www.instagram.com/shashwat.singh.ji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
-  <a href="https://mail.google.com/mail/shashwatop89" target="_blank"><img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/shashwat-singh-ji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
-</p>
+### 📊 Dynamic GitHub Activity
 
----
-
-<!-- Elegant QR Code Display -->
-<h3 align="center">📱 Scan to View My Portfolio</h3>
-<div align="center" style="background: #1a1b26; padding: 20px; border-radius: 10px; display: inline-block;">
-  <img width="180" height="180" alt="Portfolio QR Code" src="https://github.com/user-attachments/assets/a8635d99-5980-4122-84cb-242cc4c31733" style="border-radius: 8px;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
 </div>
 
-<br /><br />
-
-<!-- Visitor Badge Footer -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=gold&right_color=black" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatEv&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+### 📱 Scan to View Portfolio
+
+<div align="center">
+  <img width="160" height="160" alt="Portfolio QR Code" src="https://github.com/user-attachments/assets/a8635d99-5980-4122-84cb-242cc4c31733" style="border-radius: 8px;" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=ShashwatEv&style=flat-square&color=blue" alt="Profile Views" />
 </div>
