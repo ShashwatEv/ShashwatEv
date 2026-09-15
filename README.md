@@ -1,67 +1,32 @@
+### Shashwat Singh Chandel
+**Full-Stack & Systems Developer** • Madhya Pradesh, India  
+`C++` | `Python` | `JavaScript` | `React` | `Node.js` | `Docker` | `Supabase`
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=220&section=header&text=Shashwat%20Singh%20Chandel&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%26%20Systems%20Engineer&descFontSize=20&descAlignY=68" width="100%" alt="Header" />
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shashwat-singh-ji/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shashwatop69@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-</div>
-
-### ⚡ Technical Stack
-
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages** | `C++` `Python` `JavaScript` `TypeScript` `HTML/CSS` |
-| **Frontend & Mobile** | `React` `React Native` `Expo` `Tailwind CSS` |
-| **Backend & Runtime** | `Node.js` `Express` `WebSockets` `REST APIs` |
-| **Databases & Cache** | `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Redis` `SQLite` |
-| **DevOps & Workspace** | `Docker` `Git` `VS Code` `Linux` |
+[LinkedIn Profile](https://www.linkedin.com/in/shashwat-singh-ji/) • [Send Email](mailto:shashwatop69@gmail.com) • [Instagram](https://www.instagram.com/shashwat.singh.ji/)
 
 ---
 
-### 📦 Key Repositories & Architecture
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🌐 CommuneX</h4>
-      <p>Interactive web application structured for modular component interaction, rich search indexing, and real-time community engagement.</p>
-      <sub><code>React</code> • <code>Node.js</code> • <code>REST</code> • <code>Tailwind</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📱 Mobile Architecture Suite</h4>
-      <p>Custom mobile client developed with React Navigation stacks and custom SQLite persistence models.</p>
-      <sub><code>React Native</code> • <code>Expo</code> • <code>SQLite</code></sub>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚙️ Legacy API Migration Pipeline</h4>
-      <p>Data migration pipeline and autonomous verification system processing structured telemetry and build checks.</p>
-      <sub><code>Python</code> • <code>JSON Telemetry</code> • <code>Git API</code></sub>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🛡️ System Utilities</h4>
-      <p>Low-level tooling, networking probes, and automated audit scripts for environment diagnostics.</p>
-      <sub><code>C++</code> • <code>Python</code> • <code>Automation</code></sub>
-    </td>
-  </tr>
-</table>
+#### 🛠️ Core Stack
+* **Web & UI:** React, Tailwind CSS, HTML5, CSS3, JavaScript (ES6+), TypeScript
+* **Backend & Systems:** Node.js, C++, Python, Docker, RESTful APIs
+* **Databases:** PostgreSQL, MySQL, MongoDB, SQLite, Supabase, Redis
 
 ---
 
-### 📈 Activity & Metrics
+#### 📂 Highlighted Projects
+1. **CommuneX:** Dynamic community platform with modular UI components and real-time interaction feeds.
+2. **Mobile Persistence App:** Cross-platform React Native / Expo application backed by local SQLite storage.
+3. **API Migration & Telemetry:** Automated workflow suite logging system performance metrics and autonomous deployment reports.
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=radical&hide_border=true&count_private=true" height="155" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatEv&theme=radical&hide_border=true" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=dark&hide_border=true&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=dark&hide_border=true" width="48%" />
 </div>
 
-<br />
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,1&height=100&section=footer" width="100%" />
+  <br />
+  <img width="150" height="150" alt="Portfolio QR Code" src="https://github.com/user-attachments/assets/a8635d99-5980-4122-84cb-242cc4c31733" />
+  <p><sub>Scan to view mobile portfolio</sub></p>
 </div>
