@@ -1,9 +1,4 @@
----
 
-### Concept 2: The Modern "Product Engineer" Grid (Vercel/Linear Aesthetic)
-A sleek, asymmetric visual layout with SVG gradient headers, organized component badges, and a side-by-side metric layout.
-
-```markdown
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=220&section=header&text=Shashwat%20Singh%20Chandel&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%26%20Systems%20Engineer&descFontSize=20&descAlignY=68" width="100%" alt="Header" />
