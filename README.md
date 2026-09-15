@@ -1,65 +1,72 @@
+---
+
+### Concept 2: The Modern "Product Engineer" Grid (Vercel/Linear Aesthetic)
+A sleek, asymmetric visual layout with SVG gradient headers, organized component badges, and a side-by-side metric layout.
+
+```markdown
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2800&pause=800&color=F7DF1E&center=true&vCenter=true&width=550&lines=Hi%2C+I'm+Shashwat+Singh+Chandel;Full+Stack+%26+Systems+Developer;Building+Scalable+Web+%26+Mobile+Apps" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,30&height=220&section=header&text=Shashwat%20Singh%20Chandel&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20%26%20Systems%20Engineer&descFontSize=20&descAlignY=68" width="100%" alt="Header" />
 
-<p>📍 Madhya Pradesh, India &nbsp;|&nbsp; 🎓 Computer Science & Engineering</p>
-
-<p>
-  <a href="https://www.linkedin.com/in/shashwat-singh-ji/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:shashwatop69@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.instagram.com/shashwat.singh.ji/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shashwat-singh-ji/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shashwatop69@gmail.com"><img src="https://img.shields.io/badge/Email-Inquire-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
 
----
+### ⚡ Technical Stack
 
-### 🛠️ Tech Stack & Toolkit
-
-**Languages & Systems**
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,html,css" alt="Languages" />
-</p>
-
-**Frameworks, Databases & Backend**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,tailwind,postgres,mysql,mongodb,supabase,redis" alt="Frameworks and DBs" />
-</p>
-
-**DevOps & Tools**
-<p>
-  <img src="https://skillicons.dev/icons?i=git,docker,vscode" alt="Tools" />
-</p>
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages** | `C++` `Python` `JavaScript` `TypeScript` `HTML/CSS` |
+| **Frontend & Mobile** | `React` `React Native` `Expo` `Tailwind CSS` |
+| **Backend & Runtime** | `Node.js` `Express` `WebSockets` `REST APIs` |
+| **Databases & Cache** | `PostgreSQL` `MySQL` `MongoDB` `Supabase` `Redis` `SQLite` |
+| **DevOps & Workspace** | `Docker` `Git` `VS Code` `Linux` |
 
 ---
 
-### 🚀 Featured Work & Architecture
+### 📦 Key Repositories & Architecture
 
-| Project | Tech Stack | Highlights |
-| :--- | :--- | :--- |
-| **CommuneX** | React, Node.js, SQLite, WebSockets | Modular forum platform with custom real-time interactions and UI cards. |
-| **Mobile App Suite** | React Native, Expo, SQLite | Cross-platform navigation stacks with local offline persistence. |
-| **Legacy API Migration** | Python, REST APIs, JSON Telemetry | Autonomous health auditing, automated digests, and data sync workflows. |
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌐 CommuneX</h4>
+      <p>Interactive web application structured for modular component interaction, rich search indexing, and real-time community engagement.</p>
+      <sub><code>React</code> • <code>Node.js</code> • <code>REST</code> • <code>Tailwind</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📱 Mobile Architecture Suite</h4>
+      <p>Custom mobile client developed with React Navigation stacks and custom SQLite persistence models.</p>
+      <sub><code>React Native</code> • <code>Expo</code> • <code>SQLite</code></sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚙️ Legacy API Migration Pipeline</h4>
+      <p>Data migration pipeline and autonomous verification system processing structured telemetry and build checks.</p>
+      <sub><code>Python</code> • <code>JSON Telemetry</code> • <code>Git API</code></sub>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ System Utilities</h4>
+      <p>Low-level tooling, networking probes, and automated audit scripts for environment diagnostics.</p>
+      <sub><code>C++</code> • <code>Python</code> • <code>Automation</code></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 📊 Dynamic GitHub Activity
+### 📈 Activity & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShashwatEv&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ShashwatEv&show_icons=true&theme=radical&hide_border=true&count_private=true" height="155" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatEv&theme=radical&hide_border=true" height="155" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShashwatEv&theme=tokyonight&hide_border=true" alt="Streak Stats" />
-</div>
-
----
-
-### 📱 Scan to View Portfolio
+<br />
 
 <div align="center">
-  <img width="160" height="160" alt="Portfolio QR Code" src="https://github.com/user-attachments/assets/a8635d99-5980-4122-84cb-242cc4c31733" style="border-radius: 8px;" />
-  <br /><br />
-  <img src="https://komarev.com/ghpvc/?username=ShashwatEv&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,1&height=100&section=footer" width="100%" />
 </div>
