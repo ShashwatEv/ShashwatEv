@@ -137,4 +137,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&left_color=gold&right_color=black" />
 
 </div> 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=30,2,1&height=100&section=footer" width="100%" />
+</div>
 
