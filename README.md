@@ -3,7 +3,11 @@
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Shashwat!;B.Tech+Student+from+India;Full+Stack+Developer+🚀)
 
-<img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
+
+<img height="150" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
+<img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3FxN2I0ZDRoczk0dzAwNzc5cXF4d25vOGptNTZyZHh4c3RzOXFycSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif" alt="Profile GIF"/>
+
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ShashwatEv/github-analytics-dashboard/main/data/github_dashboard.svg" alt="Shashwat's GitHub Analytics" width="100%" />
