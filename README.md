@@ -5,6 +5,10 @@
 
 <img height="140" src="https://i.imgflip.com/65efzo.gif" alt="Profile GIF" />
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ShashwatEv/github-analytics-dashboard/main/data/github_dashboard.svg" alt="Shashwat's GitHub Analytics" width="100%" />
+</p>
+
 📍 Madhya Pradesh, India
 </div>
 
