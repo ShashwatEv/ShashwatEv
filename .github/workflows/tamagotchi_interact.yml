@@ -1,0 +1,51 @@
+name: Tamagotchi Interaction
+on:
+  issues:
+    types: [opened]
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  interact:
+    if: startsWith(github.event.issue.title, 'tamagotchi:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Process Action
+        run: |
+          ACTION=$(echo "${{ github.event.issue.title }}" | cut -d':' -f2 | xargs)
+          USER="${{ github.event.issue.user.login }}"
+          python scripts/tamagotchi.py action "$ACTION" "$USER"
+
+      - name: Commit and Push Update
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ assets/
+          git commit -m "chore: tamagotchi state update by @${{ github.event.issue.user.login }}" || exit 0
+          git push
+
+      - name: Close Issue with Feedback
+        uses: actions/github-script@v7
+        with:
+          script: |
+            await github.rest.issues.createComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              body: `Thanks @${context.actor}! The daemon received your action.`
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: context.issue.number,
+              state: 'closed'
+            });
