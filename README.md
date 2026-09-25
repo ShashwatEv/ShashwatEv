@@ -96,24 +96,6 @@
 
 <br /><br />
 
-<div align="center">
-  <img src="./assets/tamagotchi.svg" alt="Profile Tamagotchi" />
-  <br/><br/>
-
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=tamagotchi:feed&body=Feeding+BitByte+some+fresh+code.">
-    <img src="https://img.shields.io/badge/🍖_Feed_Code-21262d?style=for-the-badge" alt="Feed" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=tamagotchi:coffee&body=Brewing+hot+coffee.">
-    <img src="https://img.shields.io/badge/☕_Brew_Coffee-21262d?style=for-the-badge" alt="Coffee" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=tamagotchi:play&body=Playing+a+game.">
-    <img src="https://img.shields.io/badge/🎮_Play-21262d?style=for-the-badge" alt="Play" />
-  </a>
-  <a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/issues/new?title=tamagotchi:bugfix&body=Squashing+a+bug.">
-    <img src="https://img.shields.io/badge/🐛_Squash_Bug-21262d?style=for-the-badge" alt="Bugfix" />
-  </a>
-</div>
-
 <!-- Profile Views Badge -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ShashwatEv&color=FFD700&style=flat-square" alt="Profile Views" />
