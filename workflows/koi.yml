@@ -2,12 +2,11 @@ name: Generate Git Koi
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Runs every day at midnight UTC
+    - cron: '0 0 * * *'
   workflow_dispatch:
   push:
     branches:
       - main
-      - master
 
 jobs:
   koi:
@@ -21,7 +20,7 @@ jobs:
       - name: Generate Koi
         uses: yalongwastaken/git-koi@v1
         with:
-          body: asagi # Options: white, black, asagi, tea, gold, or platinum
+          body: asagi
 
       - name: Commit and push koi if changed
         run: |
