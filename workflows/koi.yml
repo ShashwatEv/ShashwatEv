@@ -1,0 +1,31 @@
+name: Generate Git Koi
+
+on:
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Koi
+        uses: yalongwastaken/git-koi@v1
+        with:
+          body: asagi # Options: white, black, asagi, tea, gold, or platinum
+
+      - name: Commit and push koi if changed
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.debian.net"
+          git add koi/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update git-koi graphic" && git push)
